@@ -3,7 +3,7 @@ import React from "react";
 const HomePage = () => (
   <div className="main-wrapper-content">
     <div className="container">
-      <h3>Under Contruction, Go to Tracker</h3>
+      <h3>Under Construction, Go to Tracker</h3>
     </div>
   </div>
 );
